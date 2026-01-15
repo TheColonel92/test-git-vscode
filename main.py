@@ -1,5 +1,5 @@
 # Program to check if a number is prime or not
-num = 67
+num = 70 # changement de 67 V1 à 70 V2
 # To take input from the user
 #num = int(input("Enter a number: "))
 # define a flag variable
